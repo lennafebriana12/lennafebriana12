@@ -1,6 +1,6 @@
 # Hi there, I'm Lenna - aka [lennafebriana](https://www.instagram.com/nfebtp_/) 👋
 ## About me:
-- 🔭 I’m currently study at [IT Del](https://www.del.ac.id/)
+- 👩‍🎓 I’m currently study at [IT Del](https://www.del.ac.id/)
 - 🌱 I’m currently learning C language
 - 👯 I’m looking to collaborate as Data Analyst
 - 💬 Ask me about anything
