@@ -2,7 +2,6 @@
 ## About me:
 - 👩‍🎓 I’m currently study at [IT Del](https://www.del.ac.id/)
 - 🌱 I’m currently learning C language
-- 👯 I’m looking to collaborate as Data Analyst
 - 💬 Ask me about anything
 - 📫 How to reach me: lennafebriana@gmail.com
 
