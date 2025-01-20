@@ -3,7 +3,7 @@
 - 👩‍🎓 I’m currently study at [IT Del](https://www.del.ac.id/)
 - 🌱 I’m currently learning C language
 - 💬 Ask me about anything
-- 📫 How to reach me: lennafebriana@gmail.com
+- 📫 How to reach me: lennahutapea18@gmail.com
 
 ## Education:
 
